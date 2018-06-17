@@ -29,7 +29,7 @@ if(message.content =="test"){
     message.author.sendMessage(m).catch(console.log);
 }
 else if(message.content == "mignax"){
-     message.reply("FDP ARRETE D JOUER A CS ")
+     message.reply("FDP ARRETE D JOUER A Cs ")
 }
 });
 Client.login(token)
